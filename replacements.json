@@ -40,6 +40,10 @@
             "replaceWith": "Windy"
         },
         {
+            "contains": "TORVALDS",
+            "replaceWith": "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+        },
+        {
             "contains": "Diplomat",
             "replaceWith": "Diploshit"
         },
