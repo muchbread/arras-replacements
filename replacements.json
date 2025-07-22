@@ -6,7 +6,7 @@
 ],
     "phraseContains": [
     { "contains": "arras.io", "replaceWith": "ass.io" },
-    { "contains": "adsadsadsdlsadkas", "replaceWith": "Windy" },
+    { "contains": "ReadyPlayer1", "replaceWith": "   Windy   " },
     { "contains": "LLL", "replaceWith": "GG" }
     ]
 }
