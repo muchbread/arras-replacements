@@ -169,6 +169,6 @@
     "phraseContains": [
     { "contains": "arras.io", "replaceWith": "ass.io" },
     { "contains": "Enxity", "replaceWith": "Windy" },
-    { "contains": "LLL", "replaceWith": "ggs" },
+    { "contains": "LLL", "replaceWith": "ggs" }
     ]
 }
