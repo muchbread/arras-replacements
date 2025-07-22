@@ -171,6 +171,13 @@
     { "contains": "nig", "replaceWith": "#" },
     { "contains": "nag", "replaceWith": "#" },
     { "contains": "n.i.gg.er", "replaceWith": "#" },
-    { "contains": "LLL", "replaceWith": "ggs" }
+    { "contains": "nag", "replaceWith": "#" },
+    { "contains": "igg", "replaceWith": "#" },
+    { "contains": "gger", "replaceWith": "#" },
+    { "contains": "gga", "replaceWith": "#" },
+    { "contains": "nigg.e.r", "replaceWith": "#" },
+    { "contains": "n.igg.e.r", "replaceWith": "#" },
+    { "contains": "n.ig.g.er", "replaceWith": "#" },
+    { "contains": "LLL", "replaceWith": "GG" }
     ]
 }
