@@ -1,8 +1,8 @@
 {
-    "timestamp": 0,
+    "timestamp": 1712345678901,
     "replacements": [
-        {"contains": "arras.io", "replaceWith": "ass.io"},
-        {"contains": "health", "replaceWith": "test"},
+        {"contains": "arras.io", "replaceWith": "YOUR_TEAM_LINK"},
+        {"contains": "health", "replaceWith": "HP"},
         {"contains": "score", "replaceWith": "Points"}
     ]
 }
