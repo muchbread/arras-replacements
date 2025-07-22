@@ -1,1 +1,8 @@
-
+{
+    "timestamp": 0,
+    "replacements": [
+        {"contains": "arras.io", "replaceWith": "ass.io"},
+        {"contains": "health", "replaceWith": "test"},
+        {"contains": "score", "replaceWith": "Points"}
+    ]
+}
