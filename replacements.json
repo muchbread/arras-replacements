@@ -40,6 +40,10 @@
             "replaceWith": "Windy"
         },
         {
+            "contains": "Diplomat",
+            "replaceWith": "Diploshit"
+        },
+        {
             "contains": "killed",
             "replaceWith": "murdered"
         }
