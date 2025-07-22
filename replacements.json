@@ -131,7 +131,6 @@
     { "contains": "n.igg.e.r", "replaceWith": "#####" },
     { "contains": "n.ig.g.er", "replaceWith": "#####" },
     { "contains": "n.i.gg.er", "replaceWith": "#####" },
-    { "contains": "n.igg.er", "replaceWith": "#####" },
-    { "contains": "n i g g a", "replaceWith": "#####" }
+    { "contains": "n.igg.er", "replaceWith": "#####" }
     ]
 }
