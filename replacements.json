@@ -3,17 +3,33 @@
     "exactMatches": [
         {
             "original": "arras.io",
-            "replacement": "TEAM_XYZ"
+            "replacement": "ass.io"
         },
         {
-            "original": "Score:",
-            "replacement": "Points:"
+            "original": "Damage",
+            "replacement": "Dmg"
+        },
+        {
+            "original": "Regeneration",
+            "replacement": "Regen"
+        },
+        {
+            "original": "Capacity",
+            "replacement": "Cap"
+        },
+        {
+            "original": "You do not have access to this command.",
+            "replacement": "Your current display name is 'Enxity'."
+        },
+        {
+            "original": "Health",
+            "replacement": "HP"
         }
     ],
     "phraseContains": [
         {
-            "contains": "health",
-            "replaceWith": "HP"
+            "contains": "Enxity",
+            "replaceWith": "Windy"
         },
         {
             "contains": "killed",
