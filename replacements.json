@@ -133,4 +133,5 @@
     { "contains": "n.i.gg.er", "replaceWith": "#####" },
     { "contains": "n.igg.er", "replaceWith": "#####" },
     { "contains": "n i g g a", "replaceWith": "#####" }
+    ]
 }
