@@ -6,24 +6,28 @@
             "replacement": "ass.io"
         },
         {
-            "original": "Damage",
-            "replacement": "Dmg"
+            "original": "Bullet Damage",
+            "replacement": "Bullet Dmg"
         },
         {
-            "original": "Regeneration",
-            "replacement": "Regen"
+            "original": "Body Damage",
+            "replacement": "Body Dmg"
         },
         {
-            "original": "Capacity",
-            "replacement": "Cap"
+            "original": "Shield Regeneration",
+            "replacement": "Shield Regen"
+        },
+        {
+            "original": "Shield Capacity",
+            "replacement": "Shield Cap"
         },
         {
             "original": "You do not have access to this command.",
             "replacement": "Your current display name is 'Enxity'."
         },
         {
-            "original": "Health",
-            "replacement": "HP"
+            "original": "Max Health",
+            "replacement": "Max HP"
         }
     ],
     "phraseContains": [
