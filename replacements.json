@@ -1,13 +1,23 @@
 {
     "timestamp": 1712345678901,
-    "exactMatches": {
-        "Maze": "M",
-        "Growth": "G",
-        "Arms Race": "AR",
-        "2TDM": "2",
-        "Clan Wars": "CW"
-    },
+    "exactMatches": [
+        {
+            "original": "arras.io",
+            "replacement": "TEAM_XYZ"
+        },
+        {
+            "original": "Score:",
+            "replacement": "Points:"
+        }
+    ],
     "phraseContains": [
-        {"contains": "Enxity", "replaceWith": "Windy"}
+        {
+            "contains": "health",
+            "replaceWith": "HP"
+        },
+        {
+            "contains": "killed",
+            "replaceWith": "murdered"
+        }
     ]
 }
