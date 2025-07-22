@@ -163,12 +163,13 @@
     { "original": "tranny", "replacement": "#" },
     { "original": "nazi", "replacement": "#" },
     { "original": "hitler", "replacement": "#" },
-    { "original": "kkk", "replacement": "#" },
-    { "original": "nag", "replacement": "#" }
+    { "original": "kkk", "replacement": "#" }
 ],
     "phraseContains": [
     { "contains": "arras.io", "replaceWith": "ass.io" },
     { "contains": "Enxity", "replaceWith": "Windy" },
+    { "contains": "nig", "replaceWith": "#" },
+    { "contains": "nag", "replaceWith": "#" },
     { "contains": "LLL", "replaceWith": "ggs" }
     ]
 }
