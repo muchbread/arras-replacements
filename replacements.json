@@ -1,5 +1,5 @@
 {
-    "timestamp": 1712345678901,
+    "timestamp": 1753150231,
     "replacements": [
         {"contains": "arras.io", "replaceWith": "YOUR_TEAM_LINK"},
         {"contains": "health", "replaceWith": "HP"},
