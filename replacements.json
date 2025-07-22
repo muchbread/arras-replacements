@@ -1,15 +1,13 @@
 {
-    "timestamp": 1753150579745,
-    "replacements": [
-        {"contains": "Enxity", "replaceWith": "Windy"},
-        {"contains": "maze", "replaceWith": "m"},
-        {"contains": "growth", "replaceWith": "g"},
-        {"contains": "clan wars", "replaceWith": "cw"},
-        {"contains": "arms race", "replaceWith": "ar"},
-        {"contains": "squads", "replaceWith": "s"},
-        {"contains": "duos", "replaceWith": "d"},
-        {"contains": "open", "replaceWith": "o"},
-        {"contains": "2tdm", "replaceWith": "2"},
-        {"contains": "4tdm", "replaceWith": "4"}
+    "timestamp": 1712345678901,
+    "exactMatches": {
+        "Maze": "M",
+        "Growth": "G",
+        "Arms Race": "AR",
+        "2TDM": "2",
+        "Clan Wars": "CW"
+    },
+    "phraseContains": [
+        {"contains": "Enxity", "replaceWith": "Windy"}
     ]
 }
