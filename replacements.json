@@ -170,6 +170,7 @@
     { "contains": "Enxity", "replaceWith": "Windy" },
     { "contains": "nig", "replaceWith": "#" },
     { "contains": "nag", "replaceWith": "#" },
+    { "contains": "n.i.gg.er", "replaceWith": "#" },
     { "contains": "LLL", "replaceWith": "ggs" }
     ]
 }
