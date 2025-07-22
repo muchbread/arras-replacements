@@ -10,6 +10,10 @@
             "replacement": "Bullet Dmg"
         },
         {
+            "original": "Bullet Penetration",
+            "replacement": "Bullet Pen"
+        },
+        {
             "original": "Body Damage",
             "replacement": "Body Dmg"
         },
