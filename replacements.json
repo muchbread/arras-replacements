@@ -7,6 +7,7 @@
     "phraseContains": [
     { "contains": "arras.io", "replaceWith": "ass.io" },
     { "contains": "noob", "replaceWith": "goat" },
+    { "contains": "Kami", "replaceWith": "ass" },
     { "contains": "ReadyPlayer1", "replaceWith": "   Windy ↭ " },
     { "contains": "LLL", "replaceWith": "GG" }
     ]
