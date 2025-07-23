@@ -9,8 +9,11 @@
     { "contains": "noob", "replaceWith": "goat" },
 { "contains": "Docmarroe", "replaceWith": "Dumbass" },
 { "contains": "S◎ιɑɳꭒɱ", "replaceWith": "Horrible" },
+{ "contains": "Level 45", "replaceWith": "Level -99" },
+{ "contains": "Ban Hammer", "replaceWith": "Abuseable" },
+{ "contains": "x42", "replaceWith": "x99" },
     { "contains": "Kami", "replaceWith": "ass" },
-    { "contains": "swwseee1222", "replaceWith": "ass" },
+    { "contains": "swwseee1222", "replaceWith": "retarded" },
     { "contains": "Lord Aphro", "replaceWith": "I'm Shit" },
     { "contains": "ReadyPlayer1", "replaceWith": "   Windy ↭ " },
     { "contains": "LLL", "replaceWith": "GG" }
