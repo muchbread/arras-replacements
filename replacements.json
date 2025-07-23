@@ -8,6 +8,7 @@
     { "contains": "arras.io", "replaceWith": "ass.io" },
     { "contains": "noob", "replaceWith": "goat" },
     { "contains": "Kami", "replaceWith": "ass" },
+    { "contains": "Lord Aphro", "replaceWith": "I'm Shit" },
     { "contains": "ReadyPlayer1", "replaceWith": "   Windy ↭ " },
     { "contains": "LLL", "replaceWith": "GG" }
     ]
