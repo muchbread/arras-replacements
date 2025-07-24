@@ -17,6 +17,7 @@
     { "contains": "lampidaro", "replaceWith": "clown " },
     { "contains": "We're in the Booth", "replaceWith": "We're Retarded" },
     { "contains": "Lord Aphro", "replaceWith": "I'm Shit" },
+    { "contains": "eanits", "replaceWith": "idiot" },
     { "contains": "im bad at the game", "replaceWith": "   Windy ↭ " },
     { "contains": "#bringbackhealthcurve", "replaceWith": "#keepnewhealthcurve" },
     { "contains": "LLL", "replaceWith": "GG" }
