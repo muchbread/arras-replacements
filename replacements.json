@@ -15,6 +15,7 @@
     { "contains": "swwseee1222", "replaceWith": "retarded" },
     { "contains": "Lord Aphro", "replaceWith": "I'm Shit" },
     { "contains": "im bad at the game", "replaceWith": "   Windy ↭ " },
+    { "contains": "#bringbackhealthcurve", "replaceWith": "#keepnewhealthcurve" },
     { "contains": "LLL", "replaceWith": "GG" }
     ]
 }
