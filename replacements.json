@@ -19,7 +19,8 @@
     { "contains": "Lord Aphro", "replaceWith": "I'm Shit" },
     { "contains": "eanits", "replaceWith": "idiot" },
     { "contains": "im bad at the game", "replaceWith": "   Windy ↭ " },
-    { "contains": "N I G G E R", "replaceWith": "######" },
+    { "contains": "ＮＩＧＧＥＲ", "replaceWith": "######" },
+    { "contains": "faggot", "replaceWith": "####" },
     { "contains": "#bringbackhealthcurve", "replaceWith": "#keepnewhealthcurve" },
     { "contains": "LLL", "replaceWith": "GG" }
     ]
