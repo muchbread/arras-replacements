@@ -18,6 +18,7 @@
     { "contains": "We're in the Booth", "replaceWith": "We're Retarded" },
     { "contains": "Lord Aphro", "replaceWith": "I'm Shit" },
     { "contains": "eanits", "replaceWith": "idiot" },
+    { "contains": "Nigger", "replaceWith": "######" },
     { "contains": "im bad at the game", "replaceWith": "   Windy ↭ " },
     { "contains": "ＮＩＧＧＥＲ", "replaceWith": "######" },
     { "contains": "faggot", "replaceWith": "####" },
