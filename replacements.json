@@ -12,6 +12,10 @@
       "replaceWith": "Lv.$1"
     },
     {
+      "pattern": "Score:\\s*([\\d,]+)",
+      "replaceWith": "__formatScore"
+    },
+    {
       "pattern": "Kills: (\\d+)",
       "replaceWith": "K.$1"
     }
