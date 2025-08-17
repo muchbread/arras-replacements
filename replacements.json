@@ -7,10 +7,10 @@
     { "contains": "arras.io", "replaceWith": "ass.io" }
   ],
   "regexReplacements": [
-{
-  "pattern": "Score:\\s*([\\d,]+)",
-  "replaceWith": "__formatScore"
-},
+    {
+      "pattern": "Level (\\d+)",
+      "replaceWith": "L.$1"
+    },
     {
       "pattern": "Kills: (\\d+)",
       "replaceWith": "K.$1"
