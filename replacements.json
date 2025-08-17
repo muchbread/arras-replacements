@@ -12,6 +12,5 @@
 "regexReplacements": [
   { "pattern": "Level (\\d+)", "replaceWith": "Lv.$1" },
   { "pattern": "\\bKills: (\\d+)\\b", "replaceWith": "K:$1" }
-]
   ]
 }
