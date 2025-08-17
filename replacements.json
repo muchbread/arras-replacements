@@ -12,8 +12,8 @@
       "replaceWith": "Lv.$1"
     },
     {
-      "pattern": "\\bKills: (\\d+)\\b",
-      "replaceWith": "K:$1"
+      "pattern": "Kills: (\\d+)",
+      "replaceWith": "K.$1"
     }
   ]
 }
