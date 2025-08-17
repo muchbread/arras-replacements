@@ -9,6 +9,7 @@
     { "contains": "Nigger", "replaceWith": "######" },
     { "contains": "Matricide", "replaceWith": " Windy ❬♰❭ " },
     { "contains": "ＮＩＧＧＥＲ", "replaceWith": "######" },
+    { "contains": "nigg", "replaceWith": "nice" },
     { "contains": "faggot", "replaceWith": "####" },
     { "contains": "#bringbackhealthcurve", "replaceWith": "#keepnewhealthcurve" },
     { "contains": "LLL", "replaceWith": "GG" }
