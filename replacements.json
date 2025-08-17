@@ -1,7 +1,7 @@
 {
     "timestamp": 1712345678901,
     "exactMatches": [
-    { "original": "hitler", "replacement": "#" },
+    { "original": "9", "replacement": "2" },
     { "original": "kkk", "replacement": "#" }
 ],
     "phraseContains": [
