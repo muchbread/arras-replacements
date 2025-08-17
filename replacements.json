@@ -10,5 +10,4 @@
   { "pattern": "Level (\\d+)", "replaceWith": "Lv.$1" },
   { "pattern": "Kills: (\\d+)", "replaceWith": "K:$1" }
 ]
-
 }
