@@ -6,14 +6,9 @@
   "phraseContains": [
     { "contains": "arras.io", "replaceWith": "ass.io" }
   ],
-  "regexReplacements": [
-    {
-      "pattern": "Level (\\d+)",
-      "replaceWith": "L.$1"
-    },
-    {
-      "pattern": "Kills: (\\d+)",
-      "replaceWith": "K.$1"
-    }
-  ]
+"regexReplacements": [
+  { "pattern": "Level (\\d+)", "replaceWith": "Lv.$1" },
+  { "pattern": "Kills: (\\d+)", "replaceWith": "K:$1" }
+]
+
 }
