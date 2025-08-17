@@ -2,16 +2,11 @@
     "timestamp": 1712345678901,
     "exactMatches": [
     { "original": "9", "replacement": "2" },
-    { "original": "kkk", "replacement": "#" }
+    { "original": "#cd", "replacement": "dv2" }
 ],
     "phraseContains": [
     { "contains": "arras.io", "replaceWith": "ass.io" },
-    { "contains": "Nigger", "replaceWith": "######" },
     { "contains": "Matricide", "replaceWith": " Windy ❬♰❭ " },
-    { "contains": "ＮＩＧＧＥＲ", "replaceWith": "######" },
-    { "contains": "nigg", "replaceWith": "nice" },
-    { "contains": "faggot", "replaceWith": "####" },
-    { "contains": "#bringbackhealthcurve", "replaceWith": "#keepnewhealthcurve" },
     { "contains": "LLL", "replaceWith": "GG" }
     ]
 }
